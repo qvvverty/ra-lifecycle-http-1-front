@@ -1,6 +1,7 @@
 {
   "name": "ra-lifecycle-http-2-front",
   "version": "0.1.0",
+  "homepage": "https://qvvverty.github.io/ra-lifecycle-http-2-front/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -14,7 +15,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --passWithNoTests",
+    "lint": "eslint src --ext .js,.jsx",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
