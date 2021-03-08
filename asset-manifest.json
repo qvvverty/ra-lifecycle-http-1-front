@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-lifecycle-http-2-front/static/css/main.70bcabf1.chunk.css",
+    "main.js": "/ra-lifecycle-http-2-front/static/js/main.bbd23e88.chunk.js",
+    "main.js.map": "/ra-lifecycle-http-2-front/static/js/main.bbd23e88.chunk.js.map",
+    "runtime-main.js": "/ra-lifecycle-http-2-front/static/js/runtime-main.941575ec.js",
+    "runtime-main.js.map": "/ra-lifecycle-http-2-front/static/js/runtime-main.941575ec.js.map",
+    "static/js/2.b70b81ed.chunk.js": "/ra-lifecycle-http-2-front/static/js/2.b70b81ed.chunk.js",
+    "static/js/2.b70b81ed.chunk.js.map": "/ra-lifecycle-http-2-front/static/js/2.b70b81ed.chunk.js.map",
+    "static/js/3.4659c598.chunk.js": "/ra-lifecycle-http-2-front/static/js/3.4659c598.chunk.js",
+    "static/js/3.4659c598.chunk.js.map": "/ra-lifecycle-http-2-front/static/js/3.4659c598.chunk.js.map",
+    "index.html": "/ra-lifecycle-http-2-front/index.html",
+    "static/css/main.70bcabf1.chunk.css.map": "/ra-lifecycle-http-2-front/static/css/main.70bcabf1.chunk.css.map",
+    "static/js/2.b70b81ed.chunk.js.LICENSE.txt": "/ra-lifecycle-http-2-front/static/js/2.b70b81ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.941575ec.js",
+    "static/js/2.b70b81ed.chunk.js",
+    "static/css/main.70bcabf1.chunk.css",
+    "static/js/main.bbd23e88.chunk.js"
+  ]
+}
